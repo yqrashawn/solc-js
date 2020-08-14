@@ -39,3 +39,6 @@ bin
 out
 *.bin
 *.abi
+
+wrapper-browserify.js
+wrapper-browserify.min.js
